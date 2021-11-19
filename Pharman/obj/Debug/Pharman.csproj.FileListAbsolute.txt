@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\Pharman\Pharman\bin\Debug\Pharman.exe.config
+C:\Users\admin\source\repos\Pharman\Pharman\bin\Debug\Pharman.exe
+C:\Users\admin\source\repos\Pharman\Pharman\bin\Debug\Pharman.pdb
+C:\Users\admin\source\repos\Pharman\Pharman\obj\Debug\Pharman.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Pharman\Pharman\obj\Debug\Pharman.Properties.Resources.resources
+C:\Users\admin\source\repos\Pharman\Pharman\obj\Debug\Pharman.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Pharman\Pharman\obj\Debug\Pharman.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Pharman\Pharman\obj\Debug\Pharman.exe
+C:\Users\admin\source\repos\Pharman\Pharman\obj\Debug\Pharman.pdb
+C:\Users\admin\source\repos\Pharman\Pharman\obj\Debug\Pharman.csproj.CopyComplete
+C:\Users\admin\source\repos\Pharman\Pharman\obj\Debug\Pharman.MainForm.resources
+C:\Users\admin\source\repos\Pharman\Pharman\obj\Debug\Pharman.LoginForm.resources
+C:\Users\admin\source\repos\Pharman\Pharman\obj\Debug\Pharman.DeliveryOrderForm.resources
