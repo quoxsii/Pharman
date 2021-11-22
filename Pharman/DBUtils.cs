@@ -6,10 +6,10 @@ namespace Pharman
     {
         public static SqlConnection GetDBConnection()
         {
-            string datasource = @"DESKTOP-NQ76JFI\SQLEXPRESS";
+            string datasource = @"DATASOURCE";
             string database = "Pharmacy";
-            string username = "sa";
-            string password = "123456";
+            string username = "USERNAME";
+            string password = "PASSWORD";
 
             return DBSQLServerUtils.GetDBConnection(datasource, database, username, password);
         }
